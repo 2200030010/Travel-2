@@ -1,0 +1,1485 @@
+.HOME-TRAVEL {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .HOME-TRAVEL .div {
+    background-color: #ffffff;
+    height: 7448px;
+    overflow: hidden;
+    position: relative;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .overlap {
+    height: 887px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .land {
+    height: 696px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 659px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 529px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .explore-your-amazing {
+    color: #efffec;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 96px;
+    font-weight: 400;
+    left: 66px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 135px;
+    width: 677px;
+  }
+  
+  .HOME-TRAVEL .span {
+    font-weight: 900;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-4 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 64px;
+    font-weight: 600;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-5 {
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+  }
+  
+  .HOME-TRAVEL .never-stop-exploring {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 32px;
+    font-weight: 800;
+    left: 66px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 461px;
+    width: 575px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 793px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 911px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 1048px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 1165px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    width: 80px;
+  }
+  
+  .HOME-TRAVEL .rectangle {
+    background-color: #55454542;
+    border-radius: 19px;
+    height: 38px;
+    left: 1344px;
+    position: absolute;
+    top: 33px;
+    width: 132px;
+  }
+  
+  .HOME-TRAVEL .LOGIN-instance {
+    position: absolute;
+    top: 38px !important;
+    left: 1375px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #8e2ba1;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .rectangle-2 {
+    background-color: #ffffff;
+    height: 237px;
+    left: 48px;
+    position: absolute;
+    top: 650px;
+    width: 309px;
+  }
+  
+  .HOME-TRAVEL .best-price-guarantee {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 148px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 749px;
+    width: 105px;
+  }
+  
+  .HOME-TRAVEL .image {
+    height: 64px;
+    left: 161px;
+    object-fit: cover;
+    position: absolute;
+    top: 672px;
+    width: 78px;
+  }
+  
+  .HOME-TRAVEL .rectangle-3 {
+    background-color: #ffffff;
+    height: 237px;
+    left: 412px;
+    position: absolute;
+    top: 650px;
+    width: 309px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-10 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 476px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 749px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .img {
+    height: 64px;
+    left: 536px;
+    object-fit: cover;
+    position: absolute;
+    top: 672px;
+    width: 62px;
+  }
+  
+  .HOME-TRAVEL .rectangle-4 {
+    background-color: #ffffff;
+    height: 237px;
+    left: 797px;
+    position: absolute;
+    top: 650px;
+    width: 309px;
+  }
+  
+  .HOME-TRAVEL .rectangle-5 {
+    background-color: #ffffff;
+    height: 237px;
+    left: 1165px;
+    position: absolute;
+    top: 650px;
+    width: 309px;
+  }
+  
+  .HOME-TRAVEL .our-dedicated {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 1248px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 744px;
+  }
+  
+  .HOME-TRAVEL .image-2 {
+    height: 55px;
+    left: 952px;
+    object-fit: cover;
+    position: absolute;
+    top: 676px;
+    width: 58px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-11 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 880px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 754px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .image-3 {
+    height: 64px;
+    left: 1289px;
+    object-fit: cover;
+    position: absolute;
+    top: 672px;
+    width: 62px;
+  }
+  
+  .HOME-TRAVEL .trael {
+    height: 33px;
+    left: 66px;
+    object-fit: cover;
+    position: absolute;
+    top: 37px;
+    width: 166px;
+  }
+  
+  .HOME-TRAVEL .image-4 {
+    height: 449px;
+    left: 32px;
+    object-fit: cover;
+    position: absolute;
+    top: 963px;
+    width: 673px;
+  }
+  
+  .HOME-TRAVEL .planning-your {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 48px;
+    font-weight: 800;
+    left: 743px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 890px;
+    width: 860px;
+  }
+  
+  .HOME-TRAVEL .traveling-can-be {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 743px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1120px;
+    width: 748px;
+  }
+  
+  .HOME-TRAVEL .overlap-group {
+    background-color: #5c327d;
+    border-radius: 20px;
+    height: 60px;
+    left: 743px;
+    position: absolute;
+    top: 1321px;
+    width: 246px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+  }
+  
+  .HOME-TRAVEL .overlap-2 {
+    background-image: url('images/image-21.png');
+    height: 587px;
+    left: 0;
+    position: absolute;
+    top: 1573px;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .frame {
+    background-image: url('images/image-21.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 587px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-13 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 237px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .overlap-group-2 {
+    height: 147px;
+    left: 447px;
+    position: absolute;
+    top: 237px;
+    width: 223px;
+  }
+  
+  .HOME-TRAVEL .element {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-14 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 89px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-15 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 831px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 237px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-16 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 1172px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 237px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-17 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 326px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-18 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 864px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 326px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-19 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 24px;
+    font-weight: 800;
+    left: 1181px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 320px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-20 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 518px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 67px;
+  }
+  
+  .HOME-TRAVEL .overlap-3 {
+    height: 418px;
+    left: 68px;
+    position: absolute;
+    top: 2502px;
+    width: 377px;
+  }
+  
+  .HOME-TRAVEL .rectangle-6 {
+    background-color: #ffffff;
+    height: 418px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 369px;
+  }
+  
+  .HOME-TRAVEL .p {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 238px;
+    width: 365px;
+  }
+  
+  .HOME-TRAVEL .image-5 {
+    height: 209px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 14px;
+    width: 369px;
+  }
+  
+  .HOME-TRAVEL .rectangle-7 {
+    background-color: #50127f;
+    border-radius: 19px;
+    height: 45px;
+    left: 12px;
+    position: absolute;
+    top: 400px;
+    width: 163px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-21 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 410px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .overlap-4 {
+    height: 418px;
+    left: 565px;
+    position: absolute;
+    top: 2512px;
+    width: 380px;
+  }
+  
+  .HOME-TRAVEL .image-6 {
+    height: 209px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 369px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-22 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 223px;
+    width: 365px;
+  }
+  
+  .HOME-TRAVEL .rectangle-8 {
+    background-color: #50127f;
+    border-radius: 19px;
+    height: 45px;
+    left: 15px;
+    position: absolute;
+    top: 400px;
+    width: 163px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-23 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 410px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .overlap-5 {
+    height: 418px;
+    left: 1041px;
+    position: absolute;
+    top: 2512px;
+    width: 384px;
+  }
+  
+  .HOME-TRAVEL .image-7 {
+    height: 209px;
+    left: 4px;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 369px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-24 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 223px;
+    width: 365px;
+  }
+  
+  .HOME-TRAVEL .rectangle-9 {
+    background-color: #50127f;
+    border-radius: 19px;
+    height: 45px;
+    left: 22px;
+    position: absolute;
+    top: 400px;
+    width: 163px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 410px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .recent-blog-tips {
+    height: 119px;
+    left: 80px;
+    position: absolute;
+    top: 2271px;
+    width: 460px;
+  }
+  
+  .HOME-TRAVEL .overlap-6 {
+    height: 761px;
+    left: 80px;
+    position: absolute;
+    top: 3083px;
+    width: 1345px;
+  }
+  
+  .HOME-TRAVEL .image-8 {
+    height: 761px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 628px;
+  }
+  
+  .HOME-TRAVEL .rectangle-10 {
+    background-color: #f7eeee;
+    height: 570px;
+    left: 590px;
+    position: absolute;
+    top: 108px;
+    width: 755px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-26 {
+    color: #00000063;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 619px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-27 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 619px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 290px;
+    width: 666px;
+  }
+  
+  .HOME-TRAVEL .image-9 {
+    height: 190px;
+    left: 619px;
+    object-fit: cover;
+    position: absolute;
+    top: 377px;
+    width: 336px;
+  }
+  
+  .HOME-TRAVEL .image-10 {
+    height: 190px;
+    left: 983px;
+    object-fit: cover;
+    position: absolute;
+    top: 377px;
+    width: 336px;
+  }
+  
+  .HOME-TRAVEL .rectangle-11 {
+    background-color: #50127f;
+    border-radius: 12px;
+    height: 37px;
+    left: 619px;
+    position: absolute;
+    top: 605px;
+    width: 161px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    left: 646px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 613px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .we-provide-best-tour {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 619px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 130px;
+    width: 600px;
+  }
+  
+  .HOME-TRAVEL .image-11 {
+    height: 764px;
+    left: 80px;
+    object-fit: cover;
+    position: absolute;
+    top: 4166px;
+    width: 584px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-29 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 700px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4163px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .line {
+    height: 6px;
+    left: 1206px;
+    position: absolute;
+    top: 4176px;
+    width: 105px;
+  }
+  
+  .HOME-TRAVEL .line-2 {
+    height: 6px;
+    left: 1206px;
+    position: absolute;
+    top: 4203px;
+    width: 151px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-30 {
+    color: #50127f;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 60px;
+    font-weight: 800;
+    left: 722px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4216px;
+    width: 835px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-31 {
+    color: #000000;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 722px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4514px;
+    width: 723px;
+  }
+  
+  .HOME-TRAVEL .image-12 {
+    height: 85px;
+    left: 709px;
+    object-fit: cover;
+    position: absolute;
+    top: 4675px;
+    width: 90px;
+  }
+  
+  .HOME-TRAVEL .overlap-7 {
+    height: 85px;
+    left: 816px;
+    position: absolute;
+    top: 4675px;
+    width: 362px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-32 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 25px;
+    width: 300px;
+  }
+  
+  .HOME-TRAVEL .image-13 {
+    height: 85px;
+    left: 272px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 90px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-33 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    left: 1206px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4700px;
+    width: 312px;
+  }
+  
+  .HOME-TRAVEL .overlap-8 {
+    background-color: #ffffff;
+    height: 125px;
+    left: 722px;
+    position: absolute;
+    top: 4793px;
+    width: 102px;
+  }
+  
+  .HOME-TRAVEL .years-of-experience {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 87px;
+    width: 75px;
+  }
+  
+  .HOME-TRAVEL .overlap-9 {
+    height: 72px;
+    left: 26px;
+    position: absolute;
+    top: 9px;
+    width: 49px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-34 {
+    color: #123d7f;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+  }
+  
+  .HOME-TRAVEL .image-14 {
+    height: 44px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .HOME-TRAVEL .image-15 {
+    height: 25px;
+    left: 855px;
+    object-fit: cover;
+    position: absolute;
+    top: 4804px;
+    width: 25px;
+  }
+  
+  .HOME-TRAVEL .image-16 {
+    height: 25px;
+    left: 855px;
+    object-fit: cover;
+    position: absolute;
+    top: 4842px;
+    width: 25px;
+  }
+  
+  .HOME-TRAVEL .image-17 {
+    height: 25px;
+    left: 855px;
+    object-fit: cover;
+    position: absolute;
+    top: 4880px;
+    width: 25px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-35 {
+    color: #123d7f;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 886px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4807px;
+    width: 207px;
+  }
+  
+  .HOME-TRAVEL .it-s-faster-reliable {
+    color: #123d7f;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 880px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4845px;
+    width: 213px;
+  }
+  
+  .HOME-TRAVEL .accurate-expert {
+    color: #123d7f;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 882px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4880px;
+    width: 180px;
+  }
+  
+  .HOME-TRAVEL .image-18 {
+    height: 68px;
+    left: 1123px;
+    object-fit: cover;
+    position: absolute;
+    top: 4801px;
+    width: 66px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-36 {
+    color: #123d7f;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 1200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4803px;
+    white-space: nowrap;
+    width: 180px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-37 {
+    color: #50127f;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 1214px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4834px;
+  }
+  
+  .HOME-TRAVEL .overlap-10 {
+    height: 682px;
+    left: 0;
+    position: absolute;
+    top: 6766px;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .rectangle-12 {
+    background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(90, 24, 154) 51.5%, rgb(40.01, 49.4, 110.38) 100%);
+    height: 576px;
+    left: 0;
+    position: absolute;
+    top: 106px;
+    width: 1533px;
+  }
+  
+  .HOME-TRAVEL .element-street-new-york {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 450px;
+    width: 260px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-38 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 300;
+    left: 449px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 456px;
+    width: 149px;
+  }
+  
+  .HOME-TRAVEL .rectangle-13 {
+    background: linear-gradient(
+      180deg,
+      rgb(90, 24, 154) 0%,
+      rgb(55.6, 62.48, 193.37) 54.34%,
+      rgb(41.46, 194.59, 236.94) 100%
+    );
+    border-radius: 34px;
+    height: 212px;
+    left: 113px;
+    position: absolute;
+    top: 0;
+    width: 1316px;
+  }
+  
+  .HOME-TRAVEL .rectangle-14 {
+    background-color: #0a133859;
+    border-radius: 38px;
+    height: 55px;
+    left: 1205px;
+    position: absolute;
+    top: 75px;
+    width: 176px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-39 {
+    color: #ffffff;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 20px;
+    font-weight: 900;
+    left: 1236px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 88px;
+    white-space: nowrap;
+    width: 76px;
+  }
+  
+  .HOME-TRAVEL .image-19 {
+    height: 30px;
+    left: 1324px;
+    object-fit: cover;
+    position: absolute;
+    top: 88px;
+    width: 34px;
+  }
+  
+  .HOME-TRAVEL .subscribe-to-our {
+    color: #ffffff;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 154px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 83px;
+  }
+  
+  .HOME-TRAVEL .rectangle-15 {
+    background-color: #3535353d;
+    border-radius: 41px;
+    height: 53px;
+    left: 652px;
+    position: absolute;
+    top: 75px;
+    width: 531px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-40 {
+    color: #000000;
+    font-family: "Inter-Thin", Helvetica;
+    font-size: 32px;
+    font-weight: 100;
+    left: 678px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 80px;
+  }
+  
+  .HOME-TRAVEL .trael-2 {
+    height: 33px;
+    left: 113px;
+    object-fit: cover;
+    position: absolute;
+    top: 278px;
+    width: 166px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-41 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 300;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 390px;
+    width: 185px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-42 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 300;
+    left: 449px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 390px;
+    width: 185px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-43 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 300;
+    left: 842px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 390px;
+    width: 185px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-44 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 300;
+    left: 1253px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 393px;
+    width: 185px;
+  }
+  
+  .HOME-TRAVEL .rectangle-16 {
+    background-color: #d9d9d9;
+    border-radius: 31px;
+    height: 37px;
+    left: 1253px;
+    position: absolute;
+    top: 565px;
+    width: 215px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-45 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 300;
+    left: 1267px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 573px;
+  }
+  
+  .HOME-TRAVEL .rectangle-17 {
+    background-color: #8e2ba1;
+    border-radius: 12px;
+    height: 24px;
+    left: 1393px;
+    position: absolute;
+    top: 572px;
+    width: 69px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-46 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 13px;
+    font-weight: 600;
+    left: 1405px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 574px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-47 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 842px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 456px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-48 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 842px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 498px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-49 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 842px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 540px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-50 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 985px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 456px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-51 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 985px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 498px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-52 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 986px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 540px;
+    white-space: nowrap;
+  }
+  
+  .HOME-TRAVEL .image-20 {
+    height: 25px;
+    left: 49px;
+    object-fit: cover;
+    position: absolute;
+    top: 451px;
+    width: 28px;
+  }
+  
+  .HOME-TRAVEL .info-example-com {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 490px;
+    width: 260px;
+  }
+  
+  .HOME-TRAVEL .icon-removebg {
+    height: 25px;
+    left: 49px;
+    object-fit: cover;
+    position: absolute;
+    top: 491px;
+    width: 28px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-53 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 300;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 530px;
+    width: 176px;
+  }
+  
+  .HOME-TRAVEL .phone-icon {
+    height: 25px;
+    left: 49px;
+    object-fit: cover;
+    position: absolute;
+    top: 531px;
+    width: 28px;
+  }
+  
+  .HOME-TRAVEL .image-21 {
+    height: 39px;
+    left: 1034px;
+    object-fit: cover;
+    position: absolute;
+    top: 275px;
+    width: 39px;
+  }
+  
+  .HOME-TRAVEL .text-wrapper-54 {
+    color: #000000;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 300;
+    left: 1253px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 451px;
+    width: 229px;
+  }
+  
+  .HOME-TRAVEL .image-22 {
+    height: 39px;
+    left: 1120px;
+    object-fit: cover;
+    position: absolute;
+    top: 275px;
+    width: 39px;
+  }
+  
+  .HOME-TRAVEL .image-23 {
+    height: 39px;
+    left: 1206px;
+    object-fit: cover;
+    position: absolute;
+    top: 275px;
+    width: 39px;
+  }
+  
+  .HOME-TRAVEL .image-24 {
+    height: 39px;
+    left: 1293px;
+    object-fit: cover;
+    position: absolute;
+    top: 275px;
+    width: 39px;
+  }

@@ -1,0 +1,1969 @@
+.hotel {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .hotel .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 7425px;
+    position: relative;
+  }
+  
+  .hotel .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 757px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .image {
+    position: absolute;
+    width: 1440px;
+    height: 685px;
+    top: 0;
+    left: 0;
+    background-image: url('https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?cs=srgb&dl=pexels-pixabay-260922.jpg&fm=jpg');
+  }
+  
+  .hotel .why-settle-for-just {
+    position: absolute;
+    width: 944px;
+    top: 434px;
+    left: 60px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .trael {
+    position: absolute;
+    width: 178px;
+    height: 42px;
+    top: 42px;
+    left: 60px;
+    object-fit: cover;
+  }
+  
+  .hotel .resort-style-travel {
+    position: absolute;
+    top: 267px;
+    left: 60px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rectangle {
+    position: absolute;
+    width: 1102px;
+    height: 144px;
+    top: 613px;
+    left: 192px;
+    background-color: #d9d9d9;
+    border-radius: 70px;
+  }
+  
+  .hotel .text-wrapper {
+    position: absolute;
+    top: 691px;
+    left: 304px;
+    font-family: "Inter-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .line {
+    position: absolute;
+    width: 4px;
+    height: 71px;
+    top: 650px;
+    left: 744px;
+  }
+  
+  .hotel .text-wrapper-2 {
+    position: absolute;
+    top: 649px;
+    left: 304px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .img {
+    position: absolute;
+    width: 52px;
+    height: 60px;
+    top: 655px;
+    left: 224px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-2 {
+    position: absolute;
+    width: 52px;
+    height: 60px;
+    top: 655px;
+    left: 796px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-3 {
+    position: absolute;
+    top: 655px;
+    left: 876px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-4 {
+    position: absolute;
+    top: 691px;
+    left: 876px;
+    font-family: "Inter-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-3 {
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    top: 646px;
+    left: 1180px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-5 {
+    position: absolute;
+    top: 50px;
+    left: 650px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-6 {
+    position: absolute;
+    top: 50px;
+    left: 826px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-7 {
+    top: 50px;
+    left: 990px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rectangle-2 {
+    position: absolute;
+    width: 132px;
+    height: 38px;
+    top: 44px;
+    left: 1275px;
+    background-color: #55454533;
+    border-radius: 19px;
+  }
+  
+  .hotel .LOGIN {
+    position: absolute;
+    width: 63px;
+    height: 24px;
+    top: 51px;
+    left: 1310px;
+  }
+  
+  .hotel .text-wrapper-8 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #8e2ba1;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-9 {
+    position: absolute;
+    top: 905px;
+    left: 60px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-4 {
+    position: absolute;
+    width: 364px;
+    height: 312px;
+    top: 1059px;
+    left: 60px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-5 {
+    position: absolute;
+    width: 364px;
+    height: 312px;
+    top: 1059px;
+    left: 532px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-6 {
+    position: absolute;
+    width: 364px;
+    height: 312px;
+    top: 1059px;
+    left: 998px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-10 {
+    top: 1395px;
+    left: 60px;
+    position: absolute;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rosewood-mayakoba {
+    position: absolute;
+    top: 1437px;
+    left: 56px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-11 {
+    top: 1479px;
+    left: 56px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .element-night {
+    position: absolute;
+    top: 1521px;
+    left: 56px;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .span {
+    font-weight: 900;
+  }
+  
+  .hotel .text-wrapper-12 {
+    font-family: "Inter-Regular", Helvetica;
+  }
+  
+  .hotel .text-wrapper-13 {
+    top: 1382px;
+    left: 387px;
+    position: absolute;
+    width: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-7 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 1385px;
+    left: 360px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-14 {
+    position: absolute;
+    top: 1403px;
+    left: 536px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .fantasy-island {
+    position: absolute;
+    top: 1445px;
+    left: 532px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-15 {
+    top: 1487px;
+    left: 532px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .p {
+    top: 1529px;
+    left: 532px;
+    position: absolute;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-16 {
+    top: 1390px;
+    left: 863px;
+    position: absolute;
+    width: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-8 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 1393px;
+    left: 836px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-17 {
+    top: 1405px;
+    left: 1002px;
+    position: absolute;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .mayuri-resort {
+    position: absolute;
+    top: 1447px;
+    left: 998px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-18 {
+    top: 1489px;
+    left: 998px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .element-night-2 {
+    top: 1531px;
+    left: 998px;
+    position: absolute;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-19 {
+    top: 1392px;
+    left: 1329px;
+    position: absolute;
+    width: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-9 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 1395px;
+    left: 1302px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-10 {
+    position: absolute;
+    width: 364px;
+    height: 312px;
+    top: 1658px;
+    left: 60px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-20 {
+    top: 1994px;
+    left: 60px;
+    position: absolute;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rosewood-mayakoba-2 {
+    top: 2036px;
+    left: 56px;
+    position: absolute;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-21 {
+    top: 2078px;
+    left: 56px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .element-night-3 {
+    top: 2120px;
+    left: 56px;
+    position: absolute;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-11 {
+    position: absolute;
+    width: 364px;
+    height: 312px;
+    top: 1650px;
+    left: 536px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-22 {
+    top: 1986px;
+    left: 536px;
+    position: absolute;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rosewood-mayakoba-3 {
+    top: 2028px;
+    left: 532px;
+    position: absolute;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-23 {
+    top: 2070px;
+    left: 532px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .element-night-4 {
+    top: 2112px;
+    left: 532px;
+    position: absolute;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-12 {
+    position: absolute;
+    width: 364px;
+    height: 312px;
+    top: 1658px;
+    left: 1002px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-24 {
+    top: 1994px;
+    left: 1002px;
+    position: absolute;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rosewood-mayakoba-4 {
+    top: 2036px;
+    left: 998px;
+    position: absolute;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-25 {
+    top: 2078px;
+    left: 998px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .element-night-5 {
+    top: 2120px;
+    left: 998px;
+    position: absolute;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-group {
+    position: absolute;
+    width: 1310px;
+    height: 722px;
+    top: 2311px;
+    left: 56px;
+  }
+  
+  .hotel .overlap-2 {
+    position: absolute;
+    width: 1310px;
+    height: 722px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .image-13 {
+    position: absolute;
+    width: 607px;
+    height: 722px;
+    top: 0;
+    left: 703px;
+    object-fit: cover;
+  }
+  
+  .hotel .online-accomodations {
+    position: absolute;
+    width: 811px;
+    top: 70px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-26 {
+    position: absolute;
+    width: 698px;
+    top: 239px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .an-online-hotel {
+    position: absolute;
+    width: 681px;
+    top: 426px;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-27 {
+    top: 1974px;
+    left: 378px;
+    position: absolute;
+    width: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-14 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 1977px;
+    left: 351px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-28 {
+    top: 1969px;
+    left: 854px;
+    position: absolute;
+    width: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-15 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 1972px;
+    left: 827px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-29 {
+    top: 1976px;
+    left: 1320px;
+    position: absolute;
+    width: 53px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-16 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 1979px;
+    left: 1293px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-30 {
+    position: absolute;
+    top: 3227px;
+    left: 520px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .overlap-3 {
+    position: absolute;
+    width: 405px;
+    height: 253px;
+    top: 3452px;
+    left: 56px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .you-will-never-feel {
+    position: absolute;
+    width: 364px;
+    top: 150px;
+    left: 24px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-31 {
+    position: absolute;
+    top: 102px;
+    left: 24px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .image-17 {
+    position: absolute;
+    width: 52px;
+    height: 54px;
+    top: 25px;
+    left: 24px;
+    object-fit: cover;
+  }
+  
+  .hotel .overlap-4 {
+    position: absolute;
+    width: 405px;
+    height: 253px;
+    top: 3447px;
+    left: 515px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .image-18 {
+    position: absolute;
+    width: 52px;
+    height: 54px;
+    top: 30px;
+    left: 22px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-32 {
+    position: absolute;
+    top: 107px;
+    left: 33px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .you-will-never-feel-2 {
+    top: 151px;
+    left: 33px;
+    position: absolute;
+    width: 364px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-5 {
+    position: absolute;
+    width: 405px;
+    height: 253px;
+    top: 3447px;
+    left: 961px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .image-19 {
+    position: absolute;
+    width: 52px;
+    height: 54px;
+    top: 30px;
+    left: 35px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-33 {
+    position: absolute;
+    top: 107px;
+    left: 35px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .you-will-never-feel-3 {
+    top: 151px;
+    left: 35px;
+    position: absolute;
+    width: 364px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-6 {
+    position: absolute;
+    width: 405px;
+    height: 253px;
+    top: 3759px;
+    left: 56px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .image-20 {
+    position: absolute;
+    width: 52px;
+    height: 54px;
+    top: 18px;
+    left: 24px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-34 {
+    position: absolute;
+    top: 95px;
+    left: 24px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .you-will-never-feel-4 {
+    top: 155px;
+    left: 24px;
+    position: absolute;
+    width: 364px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-7 {
+    position: absolute;
+    width: 405px;
+    height: 253px;
+    top: 3759px;
+    left: 517px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .image-21 {
+    position: absolute;
+    width: 52px;
+    height: 54px;
+    top: 18px;
+    left: 20px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-35 {
+    left: 20px;
+    position: absolute;
+    top: 95px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .you-will-never-feel-5 {
+    top: 151px;
+    left: 23px;
+    position: absolute;
+    width: 364px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-8 {
+    position: absolute;
+    width: 405px;
+    height: 253px;
+    top: 3759px;
+    left: 961px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .image-22 {
+    position: absolute;
+    width: 52px;
+    height: 54px;
+    top: 18px;
+    left: 35px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-36 {
+    left: 35px;
+    position: absolute;
+    top: 95px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .you-will-never-feel-6 {
+    top: 147px;
+    left: 35px;
+    position: absolute;
+    width: 364px;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-9 {
+    position: absolute;
+    width: 1310px;
+    height: 612px;
+    top: 4121px;
+    left: 56px;
+    background-image: url(./img/image-22.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .hotel .text-wrapper-37 {
+    position: absolute;
+    width: 629px;
+    top: 248px;
+    left: 37px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-38 {
+    position: absolute;
+    width: 743px;
+    top: 343px;
+    left: 37px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-group-2 {
+    position: absolute;
+    width: 1441px;
+    height: 536px;
+    top: 4860px;
+    left: -1px;
+    background-color: #f7eeeeb5;
+  }
+  
+  .hotel .overlap-10 {
+    position: absolute;
+    width: 340px;
+    height: 268px;
+    top: 111px;
+    left: 126px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .text-wrapper-39 {
+    position: absolute;
+    width: 308px;
+    top: 187px;
+    left: 19px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-40 {
+    width: 118px;
+    top: 123px;
+    left: 114px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-23 {
+    position: absolute;
+    width: 99px;
+    height: 94px;
+    top: 16px;
+    left: 120px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-24 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 156px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-25 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 156px;
+    left: 40px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-26 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 156px;
+    left: 69px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-27 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 156px;
+    left: 98px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-28 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 156px;
+    left: 127px;
+    object-fit: cover;
+  }
+  
+  .hotel .overlap-11 {
+    position: absolute;
+    width: 340px;
+    height: 268px;
+    top: 111px;
+    left: 541px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .image-29 {
+    position: absolute;
+    width: 99px;
+    height: 94px;
+    top: 16px;
+    left: 121px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-41 {
+    width: 154px;
+    top: 119px;
+    left: 112px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-42 {
+    top: 187px;
+    left: 16px;
+    position: absolute;
+    width: 308px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-30 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 36px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-31 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 65px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-32 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 94px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-33 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 156px;
+    left: 123px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-34 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 152px;
+    object-fit: cover;
+  }
+  
+  .hotel .overlap-12 {
+    position: absolute;
+    width: 340px;
+    height: 268px;
+    top: 111px;
+    left: 958px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .hotel .text-wrapper-43 {
+    width: 118px;
+    top: 123px;
+    left: 111px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-44 {
+    top: 184px;
+    left: 28px;
+    position: absolute;
+    width: 308px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-35 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 48px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-36 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 77px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-37 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 106px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-38 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 157px;
+    left: 135px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-39 {
+    position: absolute;
+    width: 22px;
+    height: 20px;
+    top: 156px;
+    left: 164px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-40 {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    top: 205px;
+    left: 1331px;
+    object-fit: cover;
+  }
+  
+  .hotel .left {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    top: 205px;
+    left: 31px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-41 {
+    position: absolute;
+    width: 91px;
+    height: 24px;
+    top: 443px;
+    left: 675px;
+    object-fit: cover;
+  }
+  
+  .hotel .overlap-13 {
+    position: absolute;
+    width: 1162px;
+    height: 266px;
+    top: 5507px;
+    left: 129px;
+    background-color: #4b3ff4;
+    border-radius: 53px;
+  }
+  
+  .hotel .text-wrapper-45 {
+    position: absolute;
+    width: 887px;
+    top: 44px;
+    left: 174px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-46 {
+    position: absolute;
+    width: 1002px;
+    top: 126px;
+    left: 94px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-47 {
+    position: absolute;
+    width: 921px;
+    top: 5841px;
+    left: 286px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .should-things-lean {
+    position: absolute;
+    width: 939px;
+    top: 5923px;
+    left: 268px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-14 {
+    position: absolute;
+    width: 1440px;
+    height: 657px;
+    top: 6768px;
+    left: 0;
+  }
+  
+  .hotel .rectangle-3 {
+    position: absolute;
+    width: 1440px;
+    height: 555px;
+    top: 102px;
+    left: 0;
+    background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgb(90, 24, 154) 51.5%, rgb(40.01, 49.4, 110.38) 100%);
+  }
+  
+  .hotel .element-street-new-york {
+    width: 293px;
+    top: 433px;
+    left: 78px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+    position: absolute;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-48 {
+    position: absolute;
+    width: 174px;
+    top: 439px;
+    left: 422px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rectangle-4 {
+    position: absolute;
+    width: 1236px;
+    height: 204px;
+    top: 0;
+    left: 106px;
+    border-radius: 34px;
+    background: linear-gradient(
+      180deg,
+      rgb(90, 24, 154) 0%,
+      rgb(55.6, 62.48, 193.37) 54.34%,
+      rgb(41.46, 194.59, 236.94) 100%
+    );
+  }
+  
+  .hotel .rectangle-5 {
+    position: absolute;
+    width: 165px;
+    height: 53px;
+    top: 72px;
+    left: 1132px;
+    background-color: #0a133859;
+    border-radius: 38px;
+  }
+  
+  .hotel .text-wrapper-49 {
+    position: absolute;
+    width: 98px;
+    top: 85px;
+    left: 1161px;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .image-42 {
+    position: absolute;
+    width: 32px;
+    height: 29px;
+    top: 85px;
+    left: 1244px;
+    object-fit: cover;
+  }
+  
+  .hotel .subscribe-to-our {
+    position: absolute;
+    width: 481px;
+    top: 82px;
+    left: 144px;
+    font-family: "Inter-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rectangle-6 {
+    position: absolute;
+    width: 499px;
+    height: 51px;
+    top: 72px;
+    left: 612px;
+    background-color: #3535353d;
+    border-radius: 41px;
+  }
+  
+  .hotel .text-wrapper-50 {
+    position: absolute;
+    width: 352px;
+    top: 77px;
+    left: 637px;
+    font-family: "Inter-Thin", Helvetica;
+    font-weight: 100;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .trael-2 {
+    position: absolute;
+    width: 156px;
+    height: 32px;
+    top: 268px;
+    left: 106px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-51 {
+    position: absolute;
+    width: 225px;
+    top: 376px;
+    left: 52px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-52 {
+    width: 174px;
+    top: 376px;
+    left: 422px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 32px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-53 {
+    position: absolute;
+    width: 261px;
+    top: 376px;
+    left: 791px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-54 {
+    position: absolute;
+    width: 174px;
+    top: 379px;
+    left: 1177px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rectangle-7 {
+    position: absolute;
+    width: 202px;
+    height: 36px;
+    top: 544px;
+    left: 1177px;
+    background-color: #d9d9d9;
+    border-radius: 31px;
+  }
+  
+  .hotel .text-wrapper-55 {
+    position: absolute;
+    width: 128px;
+    top: 552px;
+    left: 1190px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .rectangle-8 {
+    position: absolute;
+    width: 65px;
+    height: 23px;
+    top: 551px;
+    left: 1308px;
+    background-color: #8e2ba1;
+    border-radius: 12px;
+  }
+  
+  .hotel .text-wrapper-56 {
+    position: absolute;
+    width: 59px;
+    top: 553px;
+    left: 1320px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-57 {
+    position: absolute;
+    width: 135px;
+    top: 439px;
+    left: 791px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-58 {
+    position: absolute;
+    width: 134px;
+    top: 480px;
+    left: 791px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-59 {
+    position: absolute;
+    width: 121px;
+    top: 520px;
+    left: 791px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-60 {
+    position: absolute;
+    width: 92px;
+    top: 439px;
+    left: 925px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-61 {
+    position: absolute;
+    width: 127px;
+    top: 480px;
+    left: 925px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-62 {
+    position: absolute;
+    width: 138px;
+    top: 520px;
+    left: 926px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-43 {
+    position: absolute;
+    width: 26px;
+    height: 25px;
+    top: 434px;
+    left: 46px;
+    object-fit: cover;
+  }
+  
+  .hotel .info-example-com {
+    position: absolute;
+    width: 244px;
+    top: 472px;
+    left: 78px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .icon-removebg {
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    top: 473px;
+    left: 46px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-63 {
+    position: absolute;
+    width: 165px;
+    top: 511px;
+    left: 78px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .phone-icon {
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    top: 512px;
+    left: 46px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-44 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 265px;
+    left: 971px;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-64 {
+    position: absolute;
+    width: 236px;
+    top: 434px;
+    left: 1177px;
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .image-45 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    top: 265px;
+    left: 1052px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-46 {
+    position: absolute;
+    width: 36px;
+    height: 37px;
+    top: 265px;
+    left: 1133px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-47 {
+    position: absolute;
+    width: 36px;
+    height: 37px;
+    top: 265px;
+    left: 1215px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-48 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6101px;
+    left: 190px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-49 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6101px;
+    left: 459px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-50 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6101px;
+    left: 728px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-51 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6101px;
+    left: 997px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-52 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6376px;
+    left: 190px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-53 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6376px;
+    left: 459px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-54 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6376px;
+    left: 738px;
+    object-fit: cover;
+  }
+  
+  .hotel .image-55 {
+    position: absolute;
+    width: 166px;
+    height: 163px;
+    top: 6376px;
+    left: 997px;
+    object-fit: cover;
+  }
+  
